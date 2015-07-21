@@ -1,0 +1,14 @@
+[
+// Rails ERB tags
+{ "keys": ["super+ctrl+l"], "command": "insert_snippet", "args": {"contents": "<%=$0 %>"} },
+// Change syntax to Ruby
+{"keys": ["super+shift+r"], "command": "set_file_type",
+     "args": {"syntax": "Packages/Ruby/Ruby.tmLanguage"}
+},
+// Django TAGS
+{ "keys": ["super+ctrl+k"], "command": "insert_snippet", "args": {"contents": "{% $0 %}"} },
+// Django inner Tags
+{ "keys": ["super+ctrl+j"], "command": "insert_snippet", "args": {"contents": "{{ $0 }}"} },
+// Close all tabs
+{ "keys": ["super+shift+w"], "command": "close_all" }
+]

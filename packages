@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"DashDoc",
+		"Emmet",
+		"ERB Snippets",
+		"Foundation 5 Snippets",
+		"JSHint",
+		"Origami",
+		"Package Control",
+		"Python 3",
+		"Ruby on Rails snippets",
+		"RubyMotionBuilder",
+		"Sass",
+		"Syntax Highlighting for Sass"
+	]
+}
+
